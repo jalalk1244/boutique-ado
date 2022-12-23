@@ -63,7 +63,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'botique_ado.urls'
 
-CIRSPY_TEMPLATE_PACK = 'bootstrap4'
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 TEMPLATES = [
     {
